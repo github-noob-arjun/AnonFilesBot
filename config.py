@@ -2,10 +2,10 @@ import os
 
 
 class Config(object):
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+    BOT_TOKEN = "6365717425:AAEC9aNl5_kYjL7OSP3wKShfhbHTMQ5i5nw"
 
-    APP_ID = int(os.environ.get("APP_ID", 1234))
+    APP_ID = 15681435
 
-    API_HASH = os.environ.get("API_HASH", "")
+    API_HASH = "29021e7d8f6fe5338a45470115567f9e"
 
-    UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "")
+    UPDATES_CHANNEL = 1740606805
